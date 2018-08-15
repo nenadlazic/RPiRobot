@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margintop">20dp</dimen>
+    <dimen name="load_w">100dp</dimen>
+    <dimen name="load_h">100dp</dimen>
+    <dimen name="heightttex">100dp</dimen>
+    <dimen name="padding_image_view">80dp</dimen>
+    <dimen name="heightbut">50dp</dimen>
+    <dimen name="padlr">1dp</dimen>
+</resources>
